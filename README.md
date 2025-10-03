@@ -7,8 +7,7 @@ El objetivo fue construir una página web temática que cumpla los **5 requerimi
 
 ## 🚀 Live Project
 
-Publicación en GitHub Pages (opcional):
-👉 **Actualiza este enlace cuando publiques**: [https://fanuneza.github.io/fanuneza-adl-animaciones-con-css/](https://fanuneza.github.io/fanuneza-adl-animaciones-con-css/)
+Puedes ver el resultado publicado en GitHub Pages aquí: [https://fanuneza.github.io/fanuneza-adl-animaciones-con-css/](https://fanuneza.github.io/fanuneza-adl-animaciones-con-css/)
 
 
 ---
